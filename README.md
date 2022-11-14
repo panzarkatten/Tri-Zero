@@ -2,11 +2,11 @@
 
 Name: ??? He will get a new name with the rebuild
 
-
 TODO: Link to projects github
-TODO: Create repo on github for this project
-TODO: Link to my github with this information
 
+TODO: Create repo on github for this project
+
+TODO: Link to my github with this information
 
 
 # Parts
