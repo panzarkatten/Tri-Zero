@@ -1,5 +1,7 @@
 # Voron V0.1 to Tri-Zero rebuild
 
+[[/images/Tri-Zero.png| Tri-zero mockup]]
+
 Name: ??? He will get a new name with the rebuild
 
 TODO: Link to projects github  
