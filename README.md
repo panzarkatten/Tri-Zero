@@ -15,17 +15,17 @@ Parts list
 https://github.com/zruncho3d/tri-zero/blob/main/PARTS.md
 
 Procurment list:
-[x] 3x Nema17 39mm stepper motors
-[x] 3x ~500mm GT2 Belt
-[ ] 3x GT2 16T Pulleys
-[x] 1x MGN7H Linear rail (X rail replaced by MGN9C and old MGN7H rail also used for Z)
-[x] 1x MGN9C Linear rail
-[ ] 6x F623 Bearings
-[ ] 3x Spacers for bed
-[x] 1x MCU with minimum 5 drivers
-[x] 1x EBB36 CAN board
-[x] 1x U2C CAN interface
-[ ] 7x Nutbar for 1515 extrusions
+- [x] 3x Nema17 39mm stepper motors
+- [x] 3x ~500mm GT2 Belt
+- [ ] 3x GT2 16T Pulleys
+- [x] 1x MGN7H Linear rail (X rail replaced by MGN9C and old MGN7H rail also used for Z)
+- [x] 1x MGN9C Linear rail
+- [ ] 6x F623 Bearings
+- [ ] 3x Spacers for bed
+- [x] 1x MCU with minimum 5 drivers
+- [x] 1x EBB36 CAN board
+- [x] 1x U2C CAN interface
+- [ ] 7x Nutbar for 1515 extrusions
 
 
 ## Motors
