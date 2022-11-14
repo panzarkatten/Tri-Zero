@@ -1,6 +1,6 @@
 # Voron V0.1 to Tri-Zero rebuild
 
-[[/images/Tri-Zero.png| Tri-zero mockup]]
+![Inline image alt text](</images/Tri-Zero.png> "Tri-Zero mockup")
 
 Name: ??? He will get a new name with the rebuild
 
