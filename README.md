@@ -29,7 +29,6 @@ Procurment list:
 ## Motors
 With regards to space and holding force 39mm Nema17 steppers was choosen. Ended up going with stepperonline motors from amazon.
 
-Motors
 https://www.amazon.se/gp/product/B07KZQ77VH
 
 
