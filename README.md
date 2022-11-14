@@ -1,20 +1,27 @@
 # Voron V0.1 to Tri-Zero rebuild
 
-![Inline image alt text](</images/Tri-Zero.png> "Tri-Zero mockup")
+## What is a Tri-Zero?
+Basically its a Voron v0.1 but with three belted Z instead of a single motor with integrated leadscrew. 
+More information about the project can be found here:
 
-Name: ??? He will get a new name with the rebuild
+https://github.com/zruncho3d/tri-zero/
 
-TODO: Link to projects github  
-TODO: Create repo on github for this project  
-TODO: Link to my github with this information  
+
+## Rendered mockup
+
+<img src="/images/Tri-Zero.png"
+     alt="Tri-Zero mockup"
+     align="center"
+     width="300px"
+/>
 
 
 ## Parts
 
-Parts list
+Parts needed
 https://github.com/zruncho3d/tri-zero/blob/main/PARTS.md
 
-Procurment list:
+Part list:
 - [x] 3x Nema17 39mm stepper motors
 - [x] 3x ~500mm GT2 Belt
 - [ ] 3x GT2 16T Pulleys
@@ -59,6 +66,12 @@ https://lecktor.com/en/voron-v01/1088-hiwin-mgn9c-150mm-01088.html
 Belts 
 https://lecktor.com/en/v0-motion/779-gates-ll-2gt-timing-belt-6x3000mm-00779.html
 
+### Filament
+for this build I will be using ASA filament from 3DO. Base color will be anthracite and the accent ratrig green.
 
-#¤¤ Cost
+https://3do.eu/asa/581-881-asa-3do-asa-1kg-antracit.html#/33-colour-anthracite
+https://3do.eu/asa/599-933-asa-3do-asa-1kg-ratrig-green.html#/123-colour-ratrig_green
+
+
+### Cost
 
