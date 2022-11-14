@@ -2,9 +2,9 @@
 
 Name: ??? He will get a new name with the rebuild
 
-TODO: Link to projects github
-TODO: Create repo on github for this project
-TODO: Link to my github with this information
+TODO: Link to projects github  
+TODO: Create repo on github for this project  
+TODO: Link to my github with this information  
 
 
 # Parts
@@ -41,14 +41,14 @@ In total 6 drivers will be needed, A, B, Z1, Z2, Z3 and E. Since I will be using
 ## Rails
 The Tri-Zero needs two extra MGN7H 150mm rails for the two extra Z. As recommended by the designer of the Tri-Zero the X rails will be upgraded to a MGN9C rail and the old one repurposed for Z. One additional MGN7H was bought.
 
-MGHN7H
+MGHN7H  
 https://lecktor.com/en/linear-rails/1146-robotdigg-mgn7h-rail-gcr15-150mm.html
 
-MGN9C
+MGN9C  
 https://lecktor.com/en/voron-v01/1088-hiwin-mgn9c-150mm-01088.html
 
 ## MISC
-Belts needed for Z
+Belts needed for Z  
 https://lecktor.com/en/v0-motion/779-gates-ll-2gt-timing-belt-6x3000mm-00779.html
 
 
