@@ -8,24 +8,25 @@ https://github.com/zruncho3d/tri-zero/
 
 
 ## Rendered mockup
-
 <img src="/images/Tri-Zero.png"
      alt="Tri-Zero mockup"
-     align="center"
      width="300px"
 />
 
+## The victim
+### V0.1885
+<img src="/images/Voctua.jpg"
+     alt="V0.1885"
+     width="300px"
+/>
 
 ## Parts
 
-Parts needed
-https://github.com/zruncho3d/tri-zero/blob/main/PARTS.md
-
-Part list:
+###Part list
 - [x] 3x Nema17 39mm stepper motors
 - [x] 3x ~500mm GT2 Belt
 - [ ] 3x GT2 16T Pulleys
-- [x] 1x MGN7H Linear rail (X rail replaced by MGN9C and old MGN7H rail also used for Z)
+- [x] 2x MGN7H Linear rail
 - [x] 1x MGN9C Linear rail
 - [ ] 6x F623 Bearings
 - [ ] 3x Spacers for bed
@@ -39,7 +40,6 @@ Part list:
 With regards to space and holding force 39mm Nema17 steppers was choosen. Ended up going with stepperonline motors from amazon.
 
 https://www.amazon.se/gp/product/B07KZQ77VH
-
 
 ### MCU
 In total 6 drivers will be needed, A, B, Z1, Z2, Z3 and E. Since I will be using a CAN toolhead board the MCU will only need 5 drivers. After some searching I landed on a used SKR 1.4 Turbo. It included 4xTMC2209 drivers and I have one extra from previous CAN conversion. 
