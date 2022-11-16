@@ -22,7 +22,7 @@ https://github.com/zruncho3d/tri-zero/
 
 ## Parts
 
-###Part list
+### Part list
 - [x] 3x Nema17 39mm stepper motors
 - [x] 3x ~500mm GT2 Belt
 - [ ] 3x GT2 16T Pulleys
